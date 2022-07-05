@@ -1,0 +1,4 @@
+1.start new file
+2.add heading
+3.add subtile
+4.write story
