@@ -5,3 +5,4 @@
 5.hiding the story
 6.read story
 7.print story
+8.make as a book
