@@ -4,3 +4,4 @@
 4.write story
 5.hiding the story
 6.read story
+7.print story
